@@ -2,7 +2,7 @@ import React from "react";
 import Transition from "../Transition";
 import { motion } from "framer-motion";
 
-import Reveal from "../components/reveal.jsx";
+import Reveal from "../components/Reveal.jsx";
 import RevealSlideX from "../components/RevealSlideX.jsx";
 import RevealSlideXn from "../components/RevealSlideXn.jsx";
 import RevealScale from "../components/RevealScale.jsx";
